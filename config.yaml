@@ -1,5 +1,7 @@
 
 
+
 split:
-  TEST_SIZE: 0.2
   TRAIN_SIZE: 0.8
+  VALID_SIZE: 0.2
+  TEST_SIZE: 0.5          # 50% of the 20% of TRAIN_SIZE
